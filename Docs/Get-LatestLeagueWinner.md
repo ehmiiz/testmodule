@@ -17,7 +17,7 @@ Get-LatestLeagueWinner
 ```
 
 ## DESCRIPTION
-Gets latest made-up leage winner (Emils team always wins)
+Gets latest made-up league winner (Emil's team always wins)
 
 ## EXAMPLES
 

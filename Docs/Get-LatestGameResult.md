@@ -17,7 +17,7 @@ Get-LatestGameResult [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-Gets a made up game senario for Emils favorite hockey team
+Gets a made up game scenario for Emil's favorite hockey team
 
 ## EXAMPLES
 
